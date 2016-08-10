@@ -1,5 +1,5 @@
 {
-    "name": "alberttriadrian/xendit_v2_client",
+    "name": "LieAlbertTriAdrian/Xendit-Test",
     "description": "PHP Clients for xendit",
     "require": {
         "php": "^5.5.0"
