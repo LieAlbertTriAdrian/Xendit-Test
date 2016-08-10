@@ -1,6 +1,7 @@
 {
     "name": "alberttriadrian/xendit-test",
     "description": "PHP Clients for xendit",
+    "version": "0.1.0",
     "authors": [
         {
             "name": "LieAlbertTriAdrian",
