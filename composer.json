@@ -1,0 +1,13 @@
+{
+    "name": "alberttriadrian/xendit_v2_client",
+    "description": "PHP Clients for xendit",
+    "require": {
+        "php": "^5.5.0"
+    },
+    "authors": [
+        {
+            "name": "LieAlbertTriAdrian",
+            "email": "alberttri23@gmail.com"
+        }
+    ]
+}
